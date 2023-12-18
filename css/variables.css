@@ -1,0 +1,10 @@
+:root {
+    --black: #171718;
+    --white: #FFF;
+    --purple: #5C62EC;
+    --grey: #26292D;
+
+    --primary-text: var(--white);
+    --secondary-text: var(--black);
+    --accent: var(--purple);
+}
